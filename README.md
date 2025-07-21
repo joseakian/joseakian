@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm José A-Kián</h1>
-<h3 align="center">A passionate DevOps from México</h3>
+<h3 align="center">A passionate DevOps Engineer from México</h3>
 
 - 🌱 I’m currently learning **Swift UI, Cybersecurity, AI engineering, Docker, CI/CD Kubernetes, Microservices**
 
